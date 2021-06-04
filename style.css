@@ -1,0 +1,137 @@
+body {
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    cursor: pointer;
+    z-index: 10;
+    position: fixed;
+    background: yellow;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+}
+
+.links {
+    color: yellow;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: inherit;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline;
+}
+
+.links:hover {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+
+#GS {
+    height: 500px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: algerian;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: algerian;
+}
+
+#PR {
+    border-radius: 50%;
+    width: 175px;
+}
+
+#GG {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#Name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+kbd {
+    font-size: 30px;
+    color: white;
+    background-color: black;
+}
+
+#info1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#info2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#info3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: algerian;
+}
+
+h6 {
+   font-size: 50px;
+    font-weight: bold;
+    font-family: algerian; 
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 24px;
+    border-radius:10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+#SB1 {
+    height: 400px;
+}
+
+
+h8 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#SB2 {
+    height: 400px;
+}
+
+#SB3 {
+    height: 400px;
+}
+
+h10 {
+   font-size: 30px;
+    font-weight: bold; 
+}
